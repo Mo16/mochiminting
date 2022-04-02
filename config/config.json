@@ -1,10 +1,10 @@
 {
-  "CONTRACT_ADDRESS": "0xf68D405205a28a2d94c1eD76837ed00Ed6C48C51",
-  "SCAN_LINK": "https://rinkeby.etherscan.io/token/0xf68D405205a28a2d94c1eD76837ed00Ed6C48C51",
+  "CONTRACT_ADDRESS": "0x1a81214e2BEA12Dd4b236e98C034C7b40FcEDc55",
+  "SCAN_LINK": "https://etherscan.io/token/0x1a81214e2BEA12Dd4b236e98C034C7b40FcEDc55e",
   "NETWORK": {
     "NAME": "Ethereum Mainnet",
     "SYMBOL": "ETH",
-    "ID": 4
+    "ID": 1
   },
   "NFT_NAME": "MOCHI",
   "SYMBOL": "MOCHI",
